@@ -1,6 +1,6 @@
 # ACL Force Plate Prototype
 
-Minimal end-to-end prototype for streaming Wii Balance Board sensor data from a Raspberry Pi to a laptop for processing and visualization.
+Minimal prototype for streaming Wii Balance Board sensor data from a Raspberry Pi to a laptop for processing and visualization.
 
 ## Project structure
 
